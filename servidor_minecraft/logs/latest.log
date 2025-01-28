@@ -1169,3 +1169,29 @@ Things may not work well.
 [28Jan2025 18:03:30.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Isn't It Iron Pick]
 [28Jan2025 18:09:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Hot Stuff]
 [28Jan2025 18:14:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Diamonds!]
+[28Jan2025 18:16:08.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: realx_edits lost connection: Disconnected
+[28Jan2025 18:16:08.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits left the game
+[28Jan2025 18:20:11.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: 221.5 Y: 68.0 Z: -509.5
+[28Jan2025 18:21:42.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: realx_edits[/127.246.172.157:34577] logged in with entity id 50761 at (214.07387067279328, 80.0, -540.3000000119209)
+[28Jan2025 18:21:42.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits joined the game
+[28Jan2025 18:22:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported realx_edits to Fleets
+[28Jan2025 18:23:21.507] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 18:23:21.761] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 18:23:35.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 3'/51161, l='ServerLevel[world]', x=996.40, y=59.50, z=59.55] died: Goblin lvl 3 died
+[28Jan2025 18:23:35.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 9'/51167, l='ServerLevel[world]', x=990.56, y=59.00, z=76.24] died: Goblin lvl 9 died
+[28Jan2025 18:23:42.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 8'/51166, l='ServerLevel[world]', x=988.76, y=59.50, z=83.64] died: Goblin lvl 8 died
+[28Jan2025 18:23:43.407] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 6'/51165, l='ServerLevel[world]', x=1000.64, y=59.00, z=63.36] died: Goblin lvl 6 died
+[28Jan2025 18:23:46.063] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 4'/51164, l='ServerLevel[world]', x=1000.47, y=59.00, z=61.82] died: Goblin lvl 4 died
+[28Jan2025 18:24:16.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 4'/51162, l='ServerLevel[world]', x=951.19, y=58.90, z=61.70] died: Goblin lvl 4 died
+[28Jan2025 18:24:21.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/51163, l='ServerLevel[world]', x=945.86, y=59.00, z=60.86] died: Goblin lvl 6 died
+[28Jan2025 18:24:42.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 3'/51181, l='ServerLevel[world]', x=990.75, y=59.00, z=92.92] died: Goblin lvl 3 died
+[28Jan2025 18:24:44.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 3'/51180, l='ServerLevel[world]', x=991.91, y=59.00, z=93.00] died: Goblin lvl 3 died
+[28Jan2025 18:24:56.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 10'/51168, l='ServerLevel[world]', x=994.31, y=59.00, z=108.44] died: Goblin lvl 10 died
+[28Jan2025 18:24:57.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 7'/51169, l='ServerLevel[world]', x=993.88, y=59.50, z=106.39] died: Goblin lvl 7 died
+[28Jan2025 18:25:09.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 8'/51177, l='ServerLevel[world]', x=995.72, y=61.09, z=135.72] died: Goblin lvl 8 died
+[28Jan2025 18:25:10.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 3'/51176, l='ServerLevel[world]', x=995.52, y=59.50, z=132.24] died: Goblin lvl 3 died
+[28Jan2025 18:25:15.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 11'/51182, l='ServerLevel[world]', x=995.71, y=60.00, z=130.29] died: Goblin lvl 11 died
+[28Jan2025 18:25:26.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/51186, l='ServerLevel[world]', x=992.17, y=59.00, z=145.32] died: Goblin lvl 1 died
+[28Jan2025 18:25:39.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 9'/51178, l='ServerLevel[world]', x=991.67, y=59.64, z=121.30] died: Goblin lvl 9 died
+[28Jan2025 18:25:44.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 3'/51185, l='ServerLevel[world]', x=992.44, y=59.00, z=102.57] died: Goblin lvl 3 died
+[28Jan2025 18:25:56.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/51183, l='ServerLevel[world]', x=993.42, y=59.00, z=78.28] died: Goblin lvl 6 died
