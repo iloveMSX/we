@@ -758,3 +758,189 @@ Things may not work well.
 [28Jan2025 17:02:34.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Jan2025 17:02:34.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sololevelling<--[HERE]
 [28Jan2025 17:02:39.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made realx_edits a server operator
+[28Jan2025 17:06:39.547] [Server thread/INFO] [net.minecraft.util.profiling.jfr.JfrProfiler/]: Started flight recorder profiling id(1):name(server-1.20.1-2025-01-28-170638) - will dump to debug/server-2025-01-28-170638.jfr on exit or stop command
+[28Jan2025 17:06:40.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[28Jan2025 17:06:43.427] [Server thread/INFO] [net.minecraft.util.profiling.jfr.SummaryReporter/]: Dumped flight recorder profiling to debug/server-2025-01-28-170638.jfr
+[28Jan2025 17:06:43.797] [Server thread/INFO] [net.minecraft.util.profiling.jfr.SummaryReporter/]: {
+  "startedEpoch": 1738083998547,
+  "endedEpoch": 1738084003163,
+  "durationMs": 4615,
+  "heap": {
+    "allocationRateBytesPerSecond": 3.3554432E7,
+    "gcCount": 2,
+    "gcOverHeadPercent": 0.292091,
+    "gcTotalDurationMs": 1348
+  },
+  "cpuPercent": {
+    "jvm": {
+      "min": 0.0,
+      "average": 0.023279468063265085,
+      "max": 0.04020100459456444
+    },
+    "userJvm": {
+      "min": 0.0,
+      "average": 0.6150868535041809,
+      "max": 0.8844221234321594
+    },
+    "system": {
+      "min": 0.0,
+      "average": 0.6711189150810242,
+      "max": 0.9422110319137573
+    }
+  },
+  "network": {
+    "sent": {
+      "totalBytes": 3112618,
+      "count": 1137,
+      "bytesPerSecond": 778154.5,
+      "countPerSecond": 284.25,
+      "topContributors": [
+        {
+          "protocolId": 0,
+          "packetId": 23,
+          "packetName": "ClientboundCustomPayloadPacket",
+          "totalBytes": 3108366,
+          "count": 675
+        },
+        {
+          "protocolId": 0,
+          "packetId": 43,
+          "packetName": "Pos",
+          "totalBytes": 846,
+          "count": 86
+        },
+        {
+          "protocolId": 0,
+          "packetId": 44,
+          "packetName": "PosRot",
+          "totalBytes": 792,
+          "count": 66
+        },
+        {
+          "protocolId": 0,
+          "packetId": 66,
+          "packetName": "ClientboundRotateHeadPacket",
+          "totalBytes": 646,
+          "count": 164
+        },
+        {
+          "protocolId": 0,
+          "packetId": 84,
+          "packetName": "ClientboundSetEntityMotionPacket",
+          "totalBytes": 624,
+          "count": 72
+        },
+        {
+          "protocolId": 0,
+          "packetId": 104,
+          "packetName": "ClientboundTeleportEntityPacket",
+          "totalBytes": 617,
+          "count": 21
+        },
+        {
+          "protocolId": 0,
+          "packetId": 106,
+          "packetName": "ClientboundUpdateAttributesPacket",
+          "totalBytes": 224,
+          "count": 2
+        },
+        {
+          "protocolId": 0,
+          "packetId": 82,
+          "packetName": "ClientboundSetEntityDataPacket",
+          "totalBytes": 120,
+          "count": 12
+        },
+        {
+          "protocolId": 0,
+          "packetId": 1,
+          "packetName": "ClientboundAddEntityPacket",
+          "totalBytes": 108,
+          "count": 2
+        },
+        {
+          "protocolId": 0,
+          "packetId": 28,
+          "packetName": "ClientboundEntityEventPacket",
+          "totalBytes": 60,
+          "count": 12
+        }
+      ]
+    },
+    "received": {
+      "totalBytes": 499,
+      "count": 19,
+      "bytesPerSecond": 124.75,
+      "countPerSecond": 4.75,
+      "topContributors": [
+        {
+          "protocolId": 0,
+          "packetId": 20,
+          "packetName": "Pos",
+          "totalBytes": 468,
+          "count": 18
+        },
+        {
+          "protocolId": 0,
+          "packetId": 4,
+          "packetName": "ServerboundChatCommandPacket",
+          "totalBytes": 31,
+          "count": 1
+        }
+      ]
+    }
+  },
+  "fileIO": {
+    "write": {
+      "totalBytes": 1191,
+      "count": 8,
+      "bytesPerSecond": 297.75,
+      "countPerSecond": 2.0,
+      "topContributors": [
+        {
+          "path": "logs/latest.log",
+          "totalBytes": 409
+        },
+        {
+          "path": "logs/debug.log",
+          "totalBytes": 409
+        }
+      ]
+    },
+    "read": {
+      "totalBytes": 4456,
+      "count": 38,
+      "bytesPerSecond": 1114.0,
+      "countPerSecond": 9.5,
+      "topContributors": [
+        {
+          "path": "/workspaces/we/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar",
+          "totalBytes": 4456
+        }
+      ]
+    }
+  },
+  "serverTick": {
+    "minMs": 0.0,
+    "averageMs": 113.012438,
+    "maxMs": 167.922416,
+    "p99": 167.66051072,
+    "p90": 165.3033632,
+    "p75": 161.374784,
+    "p50": 142.063668
+  },
+  "threadAllocation": [],
+  "chunkGen": {
+    "durationNanosTotal": 0.0,
+    "status": []
+  }
+}
+[28Jan2025 17:06:43.803] [Server thread/INFO] [net.minecraft.util.profiling.jfr.SummaryReporter/]: Dumped recording summary to debug/jfr-report-server-2025-01-28-170638.json
+[28Jan2025 17:07:59.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fleets moved too quickly! -32.03718683799269,-24.0,73.00884479280239
+[28Jan2025 17:09:08.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [realx_edits: Made realx_edits no longer a server operator]
+[28Jan2025 17:11:33.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:12:03.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: realx_edits moved too quickly! -1.011520473325703,-10.867409983895094,6.498004731838591E-4
+[28Jan2025 17:12:05.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:12:17.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: realx_edits moved too quickly! 10.264585327672137,0.0,-0.5037485948744234
+[28Jan2025 17:13:29.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Sweet Dreams]
+[28Jan2025 17:13:31.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fleets> das
