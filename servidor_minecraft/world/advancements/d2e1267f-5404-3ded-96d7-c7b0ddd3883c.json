@@ -259,6 +259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-28 16:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-28 16:07:05 +0000"
@@ -292,6 +298,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-28 16:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-28 16:38:02 +0000"
     },
     "done": true
   },
@@ -355,9 +367,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 16:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-28 16:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-28 16:32:59 +0000"
     },
     "done": true
   },
@@ -517,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-28 16:38:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-28 16:03:52 +0000"
@@ -544,6 +574,18 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-28 16:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-28 16:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-28 16:38:02 +0000"
     },
     "done": true
   },
@@ -619,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-28 16:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-28 16:14:56 +0000"
@@ -628,6 +676,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-28 16:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-28 16:32:58 +0000"
     },
     "done": true
   },
@@ -657,7 +711,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-28 16:38:28 +0000",
       "minecraft:spider": "2025-01-28 16:16:30 +0000",
+      "minecraft:creeper": "2025-01-28 16:38:35 +0000",
       "minecraft:husk": "2025-01-28 16:13:38 +0000",
       "minecraft:zombie": "2025-01-28 16:05:11 +0000"
     },
@@ -672,6 +728,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2025-01-28 16:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 16:31:12 +0000"
     },
     "done": true
   },
@@ -723,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 16:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-01-28 16:09:26 +0000"
@@ -762,6 +830,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 16:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-28 16:38:02 +0000"
     },
     "done": true
   },
@@ -810,6 +884,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-01-28 16:01:25 +0000",
+      "porkchop": "2025-01-28 16:31:14 +0000",
+      "rabbit": "2025-01-28 16:35:53 +0000",
       "mutton": "2025-01-28 16:02:57 +0000",
       "bread": "2025-01-28 16:09:32 +0000",
       "rotten_flesh": "2025-01-28 16:17:32 +0000"
@@ -819,6 +895,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-28 16:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-28 16:38:02 +0000"
     },
     "done": true
   },
