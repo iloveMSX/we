@@ -949,3 +949,169 @@ Things may not work well.
 [28Jan2025 17:18:13.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Not Today, Thank You]
 [28Jan2025 17:20:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
 [28Jan2025 17:23:07.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:26:01.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:29:15.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:30:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dungeon break at X: 282 Y: 64 Z: -560
+[28Jan2025 17:32:42.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:33:11.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:33:57.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:33:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: -48.5 Y: 80.0 Z: -24.5
+[28Jan2025 17:34:30.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:35:30.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:35:56.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:36:24.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:37:10.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:37:33.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: 209.5 Y: 79.0 Z: -550.5
+[28Jan2025 17:37:33.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30268, l='ServerLevel[world]', x=92.67, y=60.77, z=-264.26] died, message: 'Villager was slain by Zombie'
+[28Jan2025 17:37:41.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30269, l='ServerLevel[world]', x=93.50, y=60.00, z=-264.51] died, message: 'Villager was slain by Zombie'
+[28Jan2025 17:37:42.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30285, l='ServerLevel[world]', x=93.50, y=60.00, z=-264.15] died, message: 'Villager was slain by Zombie Villager'
+[28Jan2025 17:37:59.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30270, l='ServerLevel[world]', x=105.76, y=59.00, z=-291.13] died, message: 'Villager was slain by Zombie Villager'
+[28Jan2025 17:38:00.108] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[28Jan2025 17:38:02.909] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:38:09.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fleets moved too quickly! -10.132431799079711,-0.5,-0.4780881701463784
+[28Jan2025 17:38:09.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6230ms or 124 ticks behind
+[28Jan2025 17:38:14.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:38:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:39:26.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:43:06.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:43:15.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[28Jan2025 17:43:15.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[28Jan2025 17:43:15.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[28Jan2025 17:43:15.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[28Jan2025 17:43:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[28Jan2025 17:43:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[28Jan2025 17:43:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[28Jan2025 17:43:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[28Jan2025 17:43:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[28Jan2025 17:43:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[28Jan2025 17:43:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[28Jan2025 17:43:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[28Jan2025 17:43:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[28Jan2025 17:43:15.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[28Jan2025 17:43:15.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[28Jan2025 17:43:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[28Jan2025 17:43:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[28Jan2025 17:43:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[28Jan2025 17:43:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[28Jan2025 17:43:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[28Jan2025 17:43:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[28Jan2025 17:43:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[28Jan2025 17:43:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|gatesSpawn|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion|workingEconomy)
+[28Jan2025 17:43:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[28Jan2025 17:43:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[28Jan2025 17:43:15.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[28Jan2025 17:43:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[28Jan2025 17:43:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[28Jan2025 17:43:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[28Jan2025 17:43:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[28Jan2025 17:43:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[28Jan2025 17:43:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[28Jan2025 17:43:15.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[28Jan2025 17:43:15.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[28Jan2025 17:43:15.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[28Jan2025 17:43:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[28Jan2025 17:43:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[28Jan2025 17:43:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[28Jan2025 17:43:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[28Jan2025 17:43:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[28Jan2025 17:43:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[28Jan2025 17:43:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[28Jan2025 17:43:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[28Jan2025 17:43:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[28Jan2025 17:43:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[28Jan2025 17:43:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[28Jan2025 17:43:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[28Jan2025 17:43:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[28Jan2025 17:43:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[28Jan2025 17:43:15.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[28Jan2025 17:43:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[28Jan2025 17:43:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[28Jan2025 17:43:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[28Jan2025 17:43:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[28Jan2025 17:43:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[28Jan2025 17:43:15.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[28Jan2025 17:43:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[28Jan2025 17:43:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[28Jan2025 17:43:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[28Jan2025 17:43:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[28Jan2025 17:43:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[28Jan2025 17:43:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[28Jan2025 17:43:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[28Jan2025 17:43:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[28Jan2025 17:43:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[28Jan2025 17:43:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[28Jan2025 17:43:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[28Jan2025 17:43:15.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[28Jan2025 17:43:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[28Jan2025 17:43:15.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[28Jan2025 17:43:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[28Jan2025 17:43:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[28Jan2025 17:43:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[28Jan2025 17:43:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[28Jan2025 17:43:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[28Jan2025 17:43:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[28Jan2025 17:43:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[28Jan2025 17:43:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[28Jan2025 17:43:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[28Jan2025 17:43:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scale (<operation>|randomize|get|compute|reset|modifier|delay|easing|persist|nbt|debug)
+[28Jan2025 17:43:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[28Jan2025 17:43:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[28Jan2025 17:43:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon_red_gate
+[28Jan2025 17:43:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_title_wolf_slayer <name> <logic>
+[28Jan2025 17:43:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_wall_attempts <number>
+[28Jan2025 17:43:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_shadow_tusk <name> <logic>
+[28Jan2025 17:43:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_statue_stage <stage>
+[28Jan2025 17:43:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_shadow_kamish <name> <logic>
+[28Jan2025 17:43:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_shadow_igris <name> <logic>
+[28Jan2025 17:43:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_shadow_beru <name> <logic>
+[28Jan2025 17:43:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_quest_id <name> <id>
+[28Jan2025 17:43:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_quest_completed <name> <amount>
+[28Jan2025 17:43:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_tps_skip <amount>
+[28Jan2025 17:43:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_necromancer_obtained <logic>
+[28Jan2025 17:43:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_max_gates <amount>
+[28Jan2025 17:43:15.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_shadow_kaisel <name> <logic>
+[28Jan2025 17:43:15.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_job <job> <name>
+[28Jan2025 17:43:15.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_title_golem_slayer <name> <logic>
+[28Jan2025 17:43:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_title_goblin_slayer <name> <logic>
+[28Jan2025 17:43:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_gate_spawning <logic>
+[28Jan2025 17:43:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_gate_distantion <name>
+[28Jan2025 17:43:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_gate_color <color_id>
+[28Jan2025 17:43:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_gate_balance <logic>
+[28Jan2025 17:43:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_economy_value <value>
+[28Jan2025 17:43:15.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_title_demon_slayer <name> <logic>
+[28Jan2025 17:43:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_demoncastle_floor <name> <floor>
+[28Jan2025 17:43:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_death_punishment <logic>
+[28Jan2025 17:43:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /set_daily_quest (real_time|game_time)
+[28Jan2025 17:43:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /send_money <name> <amount>
+[28Jan2025 17:43:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /SL_reset_stats <name>
+[28Jan2025 17:43:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /SL_place_temple <X> <Y> <Z>
+[28Jan2025 17:43:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /SL_place_igrisroom <X> <Y> <Z>
+[28Jan2025 17:43:15.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /SL_help <question>
+[28Jan2025 17:43:15.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /SL_debug <name>
+[28Jan2025 17:43:15.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /SL_add_xp <name> <amount>
+[28Jan2025 17:43:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /round_variables <logic>
+[28Jan2025 17:43:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reset_spawned_keys
+[28Jan2025 17:43:15.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reset_shop
+[28Jan2025 17:43:15.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reset_kamish_tooth_drop
+[28Jan2025 17:43:15.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reset_kamish
+[28Jan2025 17:43:15.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reset_frost_monarch
+[28Jan2025 17:43:15.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reset_gates
+[28Jan2025 17:43:15.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rename_guild <name>
+[28Jan2025 17:43:15.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kamish_event
+[28Jan2025 17:43:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /invite_to_guild <name>
+[28Jan2025 17:43:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /hide_overlay <logic>
+[28Jan2025 17:43:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /get_strongest
+[28Jan2025 17:43:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /frost_monarch_attack
+[28Jan2025 17:43:15.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /force_dungeon_break
+[28Jan2025 17:43:15.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill_mana <name>
+[28Jan2025 17:43:15.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /break_kamish_gate
+[28Jan2025 17:43:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /allow_lock_on <logic>
+[28Jan2025 17:43:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /add_money <name> <amount>
+[28Jan2025 17:43:15.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /add_item_to_shop <id> <price>
+[28Jan2025 17:43:31.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jan2025 17:43:31.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sl_deubg<--[HERE]
+[28Jan2025 17:43:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jan2025 17:43:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sl_debug<--[HERE]
+[28Jan2025 17:43:35.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jan2025 17:43:35.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sl debug<--[HERE]
+[28Jan2025 17:43:40.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made realx_edits a server operator
