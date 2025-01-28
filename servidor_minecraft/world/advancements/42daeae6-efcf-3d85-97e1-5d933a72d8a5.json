@@ -363,7 +363,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-28 15:07:53 +0000"
+      "bread": "2025-01-28 15:07:53 +0000",
+      "rotten_flesh": "2025-01-28 16:54:34 +0000"
     },
     "done": false
   },
@@ -892,6 +893,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-01-28 16:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-28 16:55:45 +0000"
     },
     "done": true
   },

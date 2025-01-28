@@ -4044,3 +4044,16 @@ Things may not work well.
 [28Jan2025 16:51:44.765] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c1846ac[id=<null>,name=ilikeratpoison,properties={},legacy=false] (/127.63.175.83:57575) lost connection: Disconnected
 [28Jan2025 16:52:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Acquire Hardware]
 [28Jan2025 16:52:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Isn't It Iron Pick]
+[28Jan2025 16:54:08.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 16:54:08.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 16:55:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 16:55:53.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: realx_edits moved too quickly! -171.89540044142097,90.0,550.9813618269733
+[28Jan2025 16:56:39.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 16:57:08.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Suit Up]
+[28Jan2025 16:59:08.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 16:59:08.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 17:02:34.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Jan2025 17:02:34.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sololevelling<--[HERE]
+[28Jan2025 17:02:39.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made realx_edits a server operator
+[28Jan2025 17:04:08.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 17:04:08.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
