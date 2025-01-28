@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 19:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-28 18:08:19 +0000"
@@ -870,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 19:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-28 18:08:55 +0000"
@@ -954,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-28 19:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-28 16:52:11 +0000"
@@ -991,7 +1009,8 @@
       "minecraft:river": "2025-01-28 16:45:20 +0000",
       "minecraft:desert": "2025-01-28 16:45:09 +0000",
       "minecraft:warm_ocean": "2025-01-28 16:44:07 +0000",
-      "minecraft:savanna": "2025-01-28 16:37:26 +0000"
+      "minecraft:savanna": "2025-01-28 16:37:26 +0000",
+      "minecraft:plains": "2025-01-28 19:00:03 +0000"
     },
     "done": false
   },
