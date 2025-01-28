@@ -1144,3 +1144,26 @@ Things may not work well.
 [28Jan2025 17:53:44.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinClubEntity['Goblin lvl 15'/44221, l='ServerLevel[world]', x=1045.56, y=59.00, z=107.10] died: Goblin lvl 15 died
 [28Jan2025 17:54:17.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinAssassinEntity['Goblin lvl 18'/44220, l='ServerLevel[world]', x=1045.49, y=59.00, z=107.17] died: Goblin lvl 18 died
 [28Jan2025 17:55:13.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinClubEntity['Goblin lvl 9'/44236, l='ServerLevel[world]', x=1049.86, y=59.00, z=111.86] died: Goblin lvl 9 died
+[28Jan2025 17:55:18.517] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinAssassinEntity['Goblin lvl 12'/44229, l='ServerLevel[world]', x=1048.85, y=59.00, z=112.50] died: Goblin lvl 12 died
+[28Jan2025 17:55:57.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinAssassinEntity['Goblin lvl 14'/44224, l='ServerLevel[world]', x=1050.78, y=59.00, z=112.09] died: Goblin lvl 14 died
+[28Jan2025 17:56:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:56:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:56:50.908] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:57:14.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:57:18.306] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:58:01.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinBomberEntity['Goblin lvl 15'/45841, l='ServerLevel[world]', x=1047.08, y=59.00, z=106.72] died: Goblin lvl 15 died
+[28Jan2025 17:58:14.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinBomberEntity['Goblin lvl 17'/45842, l='ServerLevel[world]', x=1051.79, y=59.00, z=110.64] died: Goblin lvl 17 died
+[28Jan2025 17:59:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fleets> sdsd
+[28Jan2025 17:59:16.756] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:59:26.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinBomberEntity['Goblin lvl 10'/45865, l='ServerLevel[world]', x=1046.56, y=59.00, z=122.39] died: Goblin lvl 10 died
+[28Jan2025 18:00:02.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinClubEntity['Goblin lvl 9'/45863, l='ServerLevel[world]', x=1049.00, y=58.90, z=114.44] died: Goblin lvl 9 died
+[28Jan2025 18:00:25.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinBomberEntity['Goblin lvl 11'/45856, l='ServerLevel[world]', x=1049.11, y=59.00, z=136.06] died: Goblin lvl 11 died
+[28Jan2025 18:00:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 18:01:02.214] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 18:01:53.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 18:01:56.718] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 18:01:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 18:02:03.120] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 18:02:37.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GigaGoblinEntity['Goblin lvl 16'/45866, l='ServerLevel[world]', x=1046.36, y=59.00, z=109.95] died: Goblin lvl 16 died
+[28Jan2025 18:03:15.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 18:03:30.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Isn't It Iron Pick]

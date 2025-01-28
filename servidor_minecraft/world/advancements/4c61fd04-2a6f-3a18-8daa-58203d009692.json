@@ -587,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-28 17:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-28 17:13:29 +0000"
@@ -647,6 +653,7 @@
       "minecraft:spider": "2025-01-28 16:54:27 +0000",
       "minecraft:creeper": "2025-01-28 16:49:22 +0000",
       "minecraft:cave_spider": "2025-01-28 17:53:38 +0000",
+      "minecraft:enderman": "2025-01-28 17:58:12 +0000",
       "minecraft:zombie": "2025-01-28 16:38:56 +0000",
       "minecraft:zombie_villager": "2025-01-28 17:15:03 +0000"
     },
@@ -835,7 +842,8 @@
     "criteria": {
       "cooked_mutton": "2025-01-28 17:08:59 +0000",
       "bread": "2025-01-28 16:47:55 +0000",
-      "rotten_flesh": "2025-01-28 16:59:39 +0000"
+      "rotten_flesh": "2025-01-28 16:59:39 +0000",
+      "cooked_chicken": "2025-01-28 17:57:30 +0000"
     },
     "done": false
   },
