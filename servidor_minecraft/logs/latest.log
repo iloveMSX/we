@@ -286,3 +286,171 @@
 [28Jan2025 15:21:23.505] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
 [28Jan2025 15:22:05.850] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
 [28Jan2025 15:25:00.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison has made the advancement [Monster Hunter]
+[28Jan2025 15:30:08.400] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[28Jan2025 15:31:02.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/11444, l='ServerLevel[world]', x=500.51, y=59.00, z=94.92] died: Goblin lvl 1 died
+[28Jan2025 15:31:09.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 5'/11446, l='ServerLevel[world]', x=503.73, y=59.79, z=87.39] died: Goblin lvl 5 died
+[28Jan2025 15:32:01.281] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 2'/11445, l='ServerLevel[world]', x=511.18, y=59.00, z=107.06] died: Goblin lvl 2 died
+[28Jan2025 15:32:07.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/11463, l='ServerLevel[world]', x=512.89, y=59.00, z=110.43] died: Goblin lvl 1 died
+[28Jan2025 15:32:20.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 2'/11470, l='ServerLevel[world]', x=501.15, y=59.00, z=128.09] died: Goblin lvl 2 died
+[28Jan2025 15:32:30.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 3'/11469, l='ServerLevel[world]', x=496.57, y=59.00, z=120.31] died: Goblin lvl 3 died
+[28Jan2025 15:32:48.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 9'/11483, l='ServerLevel[world]', x=501.08, y=59.00, z=76.70] died: Goblin lvl 9 died
+[28Jan2025 15:32:52.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 8'/11465, l='ServerLevel[world]', x=496.98, y=59.00, z=81.87] died: Goblin lvl 8 died
+[28Jan2025 15:33:37.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 4'/11473, l='ServerLevel[world]', x=498.56, y=59.00, z=117.04] died: Goblin lvl 4 died
+[28Jan2025 15:33:53.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 7'/11478, l='ServerLevel[world]', x=498.51, y=59.00, z=78.58] died: Goblin lvl 7 died
+[28Jan2025 15:34:12.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 9'/11472, l='ServerLevel[world]', x=497.53, y=59.91, z=119.59] died: Goblin lvl 9 died
+[28Jan2025 15:34:16.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 10'/11487, l='ServerLevel[world]', x=502.53, y=59.00, z=126.38] died: Goblin lvl 10 died
+[28Jan2025 15:35:01.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/11479, l='ServerLevel[world]', x=500.65, y=59.00, z=148.54] died: Goblin lvl 1 died
+[28Jan2025 15:35:26.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison died
+[28Jan2025 15:35:30.000] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[28Jan2025 15:35:31.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 15:35:36.500] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 1.0
+[28Jan2025 15:35:42.458] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b16d483[id=<null>,name=pengu2nd,properties={},legacy=false] (/127.149.224.36:47633) lost connection: Disconnected
+[28Jan2025 15:35:48.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 9'/11471, l='ServerLevel[world]', x=503.73, y=59.00, z=132.76] died: Goblin lvl 9 died
+[28Jan2025 15:36:07.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 3'/11474, l='ServerLevel[world]', x=486.25, y=59.00, z=156.49] died: Goblin lvl 3 died
+[28Jan2025 15:36:22.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pengu2nd[/127.149.224.36:57973] logged in with entity id 11973 at (6.5, 81.0, -38.5)
+[28Jan2025 15:36:22.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd joined the game
+[28Jan2025 15:36:22.567] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pengu2nd (18)
+[28Jan2025 15:36:22.568] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pengu2nd
+[28Jan2025 15:36:27.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 8'/11468, l='ServerLevel[world]', x=488.20, y=59.00, z=158.91] died: Goblin lvl 8 died
+[28Jan2025 15:36:31.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:36:33.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:36:33.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pengu2nd (d2e1267f-5404-3ded-96d7-c7b0ddd3883c) successfully connected to voice chat
+[28Jan2025 15:37:54.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 15:37:57.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison died
+[28Jan2025 15:38:20.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd has made the advancement [Stone Age]
+[28Jan2025 15:39:38.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec timed out
+[28Jan2025 15:39:38.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ilikeratpoison
+[28Jan2025 15:39:38.329] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 15:39:48.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd died
+[28Jan2025 15:39:56.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilikeratpoison lost connection: Disconnected
+[28Jan2025 15:39:56.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison left the game
+[28Jan2025 15:39:56.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilikeratpoison
+[28Jan2025 15:40:16.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pengu2nd lost connection: Disconnected
+[28Jan2025 15:40:16.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd left the game
+[28Jan2025 15:40:16.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pengu2nd
+[28Jan2025 15:40:27.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilikeratpoison[/127.63.175.83:51191] logged in with entity id 13486 at (101.51920894658458, 72.0, -66.3193596230548)
+[28Jan2025 15:40:27.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison joined the game
+[28Jan2025 15:40:27.515] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilikeratpoison (18)
+[28Jan2025 15:40:27.516] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 15:40:31.787] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:40:32.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:40:32.789] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilikeratpoison (f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec) successfully connected to voice chat
+[28Jan2025 15:40:47.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[28Jan2025 15:40:47.859] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[28Jan2025 15:40:47.886] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[28Jan2025 15:42:24.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pengu2nd[/127.165.160.118:59597] logged in with entity id 13937 at (12.300000011920929, 81.0, -70.69999998807907)
+[28Jan2025 15:42:24.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd joined the game
+[28Jan2025 15:42:24.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pengu2nd (18)
+[28Jan2025 15:42:24.822] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pengu2nd
+[28Jan2025 15:42:29.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:42:30.004] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:42:30.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pengu2nd (d2e1267f-5404-3ded-96d7-c7b0ddd3883c) successfully connected to voice chat
+[28Jan2025 15:42:48.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec timed out
+[28Jan2025 15:42:48.345] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ilikeratpoison
+[28Jan2025 15:42:48.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 15:43:07.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: realx_edits lost connection: Disconnected
+[28Jan2025 15:43:07.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits left the game
+[28Jan2025 15:43:07.855] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client realx_edits
+[28Jan2025 15:43:08.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilikeratpoison lost connection: Timed out
+[28Jan2025 15:43:08.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison left the game
+[28Jan2025 15:43:08.361] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilikeratpoison
+[28Jan2025 15:43:08.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilikeratpoison[/127.93.176.145:58455] logged in with entity id 14095 at (100.68001976930971, 71.0, -79.77592593446613)
+[28Jan2025 15:43:08.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison joined the game
+[28Jan2025 15:43:08.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilikeratpoison (18)
+[28Jan2025 15:43:08.863] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 15:43:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dim minecraft:overworld (minecraft:overworld): Mean tick time: 9.291 ms. Mean TPS: 20.000
+[28Jan2025 15:43:20.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dim solo_leveling:red_gate (solo_leveling:red_gate): Mean tick time: 0.060 ms. Mean TPS: 20.000
+[28Jan2025 15:43:20.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dim solo_leveling:dungeon (solo_leveling:dungeon): Mean tick time: 0.049 ms. Mean TPS: 20.000
+[28Jan2025 15:43:20.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dim solo_leveling:ruins (solo_leveling:ruins): Mean tick time: 0.045 ms. Mean TPS: 20.000
+[28Jan2025 15:43:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dim minecraft:the_nether (minecraft:the_nether): Mean tick time: 0.051 ms. Mean TPS: 20.000
+[28Jan2025 15:43:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dim minecraft:the_end (minecraft:the_end): Mean tick time: 0.045 ms. Mean TPS: 20.000
+[28Jan2025 15:43:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dim solo_leveling:rulers_land (solo_leveling:rulers_land): Mean tick time: 0.045 ms. Mean TPS: 20.000
+[28Jan2025 15:43:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dim solo_leveling:punishment_zone (solo_leveling:punishment_zone): Mean tick time: 0.045 ms. Mean TPS: 20.000
+[28Jan2025 15:43:20.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Overall: Mean tick time: 10.739 ms. Mean TPS: 20.000
+[28Jan2025 15:43:22.954] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:43:23.950] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:43:23.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilikeratpoison (f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec) successfully connected to voice chat
+[28Jan2025 15:43:24.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f8f81af[id=<null>,name=realx_edits,properties={},legacy=false] (/127.246.172.157:41253) lost connection: Disconnected
+[28Jan2025 15:43:27.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: realx_edits[/127.246.172.157:47177] logged in with entity id 14148 at (13.997483708859496, 81.0, -64.52065402408618)
+[28Jan2025 15:43:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits joined the game
+[28Jan2025 15:43:27.813] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of realx_edits (18)
+[28Jan2025 15:43:27.814] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to realx_edits
+[28Jan2025 15:43:28.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 42daeae6-efcf-3d85-97e1-5d933a72d8a5
+[28Jan2025 15:43:29.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 42daeae6-efcf-3d85-97e1-5d933a72d8a5
+[28Jan2025 15:43:29.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player realx_edits (42daeae6-efcf-3d85-97e1-5d933a72d8a5) successfully connected to voice chat
+[28Jan2025 15:43:48.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilikeratpoison lost connection: Timed out
+[28Jan2025 15:43:48.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison left the game
+[28Jan2025 15:43:48.508] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilikeratpoison
+[28Jan2025 15:44:05.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilikeratpoison[/127.63.175.83:34941] logged in with entity id 14331 at (100.68001976930971, 71.0, -79.77592593446613)
+[28Jan2025 15:44:05.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison joined the game
+[28Jan2025 15:44:05.722] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilikeratpoison (18)
+[28Jan2025 15:44:05.722] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 15:44:11.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:44:12.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:44:12.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilikeratpoison (f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec) successfully connected to voice chat
+[28Jan2025 15:44:26.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd died
+[28Jan2025 15:44:36.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d2e1267f-5404-3ded-96d7-c7b0ddd3883c timed out
+[28Jan2025 15:44:36.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pengu2nd
+[28Jan2025 15:44:36.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pengu2nd
+[28Jan2025 15:44:55.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pengu2nd lost connection: Timed out
+[28Jan2025 15:44:55.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd left the game
+[28Jan2025 15:44:55.954] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pengu2nd
+[28Jan2025 15:44:55.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pengu2nd[/127.149.224.36:44645] logged in with entity id 14450 at (106.19100776807329, 70.5625, -87.59300772476938)
+[28Jan2025 15:44:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd joined the game
+[28Jan2025 15:45:12.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilikeratpoison lost connection: Timed out
+[28Jan2025 15:45:12.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison left the game
+[28Jan2025 15:45:12.105] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilikeratpoison
+[28Jan2025 15:45:12.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pengu2nd lost connection: Timed out
+[28Jan2025 15:45:12.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd left the game
+[28Jan2025 15:45:12.904] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pengu2nd
+[28Jan2025 15:45:12.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pengu2nd[/127.165.160.118:59229] logged in with entity id 14591 at (106.19100776807329, 70.5625, -87.59300772476938)
+[28Jan2025 15:45:12.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd joined the game
+[28Jan2025 15:45:13.021] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pengu2nd (18)
+[28Jan2025 15:45:13.021] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pengu2nd
+[28Jan2025 15:45:16.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:45:17.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:45:17.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pengu2nd (d2e1267f-5404-3ded-96d7-c7b0ddd3883c) successfully connected to voice chat
+[28Jan2025 15:45:36.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d2e1267f-5404-3ded-96d7-c7b0ddd3883c timed out
+[28Jan2025 15:45:36.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pengu2nd
+[28Jan2025 15:45:36.229] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pengu2nd
+[28Jan2025 15:45:45.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilikeratpoison[/127.63.175.83:47471] logged in with entity id 14695 at (104.9974884653671, 70.0, -83.98659409838976)
+[28Jan2025 15:45:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison joined the game
+[28Jan2025 15:45:46.086] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilikeratpoison (18)
+[28Jan2025 15:45:46.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 15:45:50.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:45:51.276] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:45:51.277] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilikeratpoison (f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec) successfully connected to voice chat
+[28Jan2025 15:45:55.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pengu2nd lost connection: Timed out
+[28Jan2025 15:45:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd left the game
+[28Jan2025 15:45:55.359] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pengu2nd
+[28Jan2025 15:45:55.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pengu2nd[/127.149.224.36:33459] logged in with entity id 14681 at (105.5, 70.0, -88.5)
+[28Jan2025 15:45:55.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd joined the game
+[28Jan2025 15:45:55.691] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pengu2nd (18)
+[28Jan2025 15:45:55.692] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pengu2nd
+[28Jan2025 15:46:02.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:46:04.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:46:04.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pengu2nd (d2e1267f-5404-3ded-96d7-c7b0ddd3883c) successfully connected to voice chat
+[28Jan2025 15:46:12.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilikeratpoison lost connection: Disconnected
+[28Jan2025 15:46:12.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison left the game
+[28Jan2025 15:46:12.904] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilikeratpoison
+[28Jan2025 15:46:19.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilikeratpoison[/127.63.175.83:46235] logged in with entity id 14796 at (104.9974884653671, 70.0, -83.98659409838976)
+[28Jan2025 15:46:19.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison joined the game
+[28Jan2025 15:46:19.514] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilikeratpoison (18)
+[28Jan2025 15:46:19.515] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 15:46:22.270] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:46:23.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:46:23.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilikeratpoison (f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec) successfully connected to voice chat
+[28Jan2025 15:46:37.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d2e1267f-5404-3ded-96d7-c7b0ddd3883c timed out
+[28Jan2025 15:46:37.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pengu2nd
+[28Jan2025 15:46:37.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pengu2nd
+[28Jan2025 15:46:57.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pengu2nd lost connection: Timed out
+[28Jan2025 15:46:57.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd left the game
+[28Jan2025 15:46:57.556] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pengu2nd
+[28Jan2025 15:46:57.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pengu2nd[/127.165.160.118:58401] logged in with entity id 14846 at (105.5, 70.0, -88.5)
+[28Jan2025 15:46:57.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd joined the game
+[28Jan2025 15:46:57.662] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pengu2nd (18)
+[28Jan2025 15:46:57.662] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pengu2nd
+[28Jan2025 15:47:01.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:47:02.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d2e1267f-5404-3ded-96d7-c7b0ddd3883c
+[28Jan2025 15:47:02.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pengu2nd (d2e1267f-5404-3ded-96d7-c7b0ddd3883c) successfully connected to voice chat
+[28Jan2025 15:47:19.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pengu2nd died
