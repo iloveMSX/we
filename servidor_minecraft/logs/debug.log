@@ -4632,3 +4632,37 @@ Things may not work well.
 [28Jan2025 18:25:39.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 9'/51178, l='ServerLevel[world]', x=991.67, y=59.64, z=121.30] died: Goblin lvl 9 died
 [28Jan2025 18:25:44.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 3'/51185, l='ServerLevel[world]', x=992.44, y=59.00, z=102.57] died: Goblin lvl 3 died
 [28Jan2025 18:25:56.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 6'/51183, l='ServerLevel[world]', x=993.42, y=59.00, z=78.28] died: Goblin lvl 6 died
+[28Jan2025 18:26:09.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 18:26:12.772] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 18:26:23.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 18:26:26.766] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 18:26:44.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 13'/51179, l='ServerLevel[world]', x=988.68, y=60.00, z=62.70] died: Goblin lvl 13 died
+[28Jan2025 18:26:58.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GigaGoblinEntity['Goblin lvl 17'/51197, l='ServerLevel[world]', x=992.14, y=59.00, z=62.84] died: Goblin lvl 17 died
+[28Jan2025 18:27:17.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 8'/51172, l='ServerLevel[world]', x=1010.79, y=59.04, z=110.50] died: Goblin lvl 8 died
+[28Jan2025 18:27:26.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/51170, l='ServerLevel[world]', x=1019.66, y=59.00, z=108.83] died: Goblin lvl 1 died
+[28Jan2025 18:27:33.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 5'/51174, l='ServerLevel[world]', x=1019.58, y=60.00, z=106.85] died: Goblin lvl 5 died
+[28Jan2025 18:27:36.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 10'/51171, l='ServerLevel[world]', x=1018.18, y=60.00, z=112.70] died: Goblin lvl 10 died
+[28Jan2025 18:27:54.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 9'/51175, l='ServerLevel[world]', x=1040.14, y=59.00, z=91.89] died: Goblin lvl 9 died
+[28Jan2025 18:28:00.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 10'/51173, l='ServerLevel[world]', x=1038.81, y=59.04, z=91.85] died: Goblin lvl 10 died
+[28Jan2025 18:28:05.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 8'/51184, l='ServerLevel[world]', x=999.39, y=58.90, z=156.61] died: Goblin lvl 8 died
+[28Jan2025 18:28:26.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 3'/51190, l='ServerLevel[world]', x=1025.80, y=58.90, z=156.84] died: Goblin lvl 3 died
+[28Jan2025 18:28:34.058] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 8'/51191, l='ServerLevel[world]', x=1025.80, y=58.90, z=156.84] died: Goblin lvl 8 died
+[28Jan2025 18:28:46.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 12'/51194, l='ServerLevel[world]', x=1011.21, y=59.00, z=213.09] died: Goblin lvl 12 died
+[28Jan2025 18:28:50.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 10'/51189, l='ServerLevel[world]', x=1026.02, y=58.90, z=156.86] died: Goblin lvl 10 died
+[28Jan2025 18:28:53.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 10'/51193, l='ServerLevel[world]', x=1011.72, y=59.50, z=214.28] died: Goblin lvl 10 died
+[28Jan2025 18:29:00.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 1'/51187, l='ServerLevel[world]', x=1036.84, y=59.00, z=156.50] died: Goblin lvl 1 died
+[28Jan2025 18:29:03.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 10'/51196, l='ServerLevel[world]', x=1010.74, y=59.88, z=214.71] died: Goblin lvl 10 died
+[28Jan2025 18:29:04.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 3'/51188, l='ServerLevel[world]', x=1039.62, y=58.90, z=156.37] died: Goblin lvl 3 died
+[28Jan2025 18:29:16.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 18:29:16.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 18:29:30.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 6'/51195, l='ServerLevel[world]', x=1011.31, y=59.00, z=212.83] died: Goblin lvl 6 died
+[28Jan2025 18:29:31.294] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Goblin2Entity['Goblin lvl 11'/51192, l='ServerLevel[world]', x=1010.37, y=59.00, z=213.20] died: Goblin lvl 11 died
+[28Jan2025 18:31:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dungeon break at X: -48 Y: 80 Z: -24
+[28Jan2025 18:33:16.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made realx_edits a server operator
+[28Jan2025 18:33:32.534] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: Money added to: Fleets by: realx_edits
+[28Jan2025 18:33:41.963] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: Money added to: Fleets by: realx_edits
+[28Jan2025 18:33:49.667] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: Money added to: realx_edits by: realx_edits
+[28Jan2025 18:33:52.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [realx_edits: Made realx_edits no longer a server operator]
+[28Jan2025 18:34:16.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 18:34:16.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 18:36:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Cover Me with Diamonds]
