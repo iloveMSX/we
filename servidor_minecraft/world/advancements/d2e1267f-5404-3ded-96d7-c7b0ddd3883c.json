@@ -553,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-28 16:24:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-28 16:12:11 +0000"
@@ -604,6 +610,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 16:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-28 16:22:35 +0000"
     },
     "done": true
   },
