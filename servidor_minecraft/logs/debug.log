@@ -4666,3 +4666,14 @@ Things may not work well.
 [28Jan2025 18:34:16.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jan2025 18:34:16.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jan2025 18:36:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Cover Me with Diamonds]
+[28Jan2025 18:36:15.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: realx_edits lost connection: Disconnected
+[28Jan2025 18:36:15.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits left the game
+[28Jan2025 18:39:16.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 18:39:16.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 18:43:31.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: 475.5 Y: 69.0 Z: -495.5
+[28Jan2025 18:44:16.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jan2025 18:44:16.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jan2025 18:45:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: 17.5 Y: 72.0 Z: -14.5
+[28Jan2025 18:45:47.555] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 18:46:00.694] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 2'/55371, l='ServerLevel[world]', x=1022.84, y=59.00, z=62.03] died: Goblin lvl 2 died
+[28Jan2025 18:46:08.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinEntity['Goblin lvl 4'/55380, l='ServerLevel[world]', x=1025.47, y=59.00, z=60.81] died: Goblin lvl 4 died
