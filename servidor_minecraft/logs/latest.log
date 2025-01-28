@@ -1115,3 +1115,32 @@ Things may not work well.
 [28Jan2025 17:43:35.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [28Jan2025 17:43:35.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sl debug<--[HERE]
 [28Jan2025 17:43:40.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made realx_edits a server operator
+[28Jan2025 17:45:44.726] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: Money added to: realx_edits by: realx_edits
+[28Jan2025 17:46:30.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [realx_edits: Gave 1 [Reaper] to realx_edits]
+[28Jan2025 17:46:38.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [realx_edits: Made realx_edits no longer a server operator]
+[28Jan2025 17:46:45.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:47:22.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:47:39.860] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:48:02.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:48:17.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:48:39.809] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:48:51.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinClubEntity['Goblin lvl 8'/42304, l='ServerLevel[world]', x=999.52, y=59.00, z=96.19] died: Goblin lvl 8 died
+[28Jan2025 17:48:59.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:49:18.107] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:49:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:49:43.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:50:07.757] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:50:11.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:50:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:50:38.208] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:50:49.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinClubEntity['Goblin lvl 13'/43898, l='ServerLevel[world]', x=1000.49, y=59.00, z=86.53] died: Goblin lvl 13 died
+[28Jan2025 17:50:57.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinClubEntity['Goblin lvl 12'/43900, l='ServerLevel[world]', x=1000.39, y=59.00, z=99.53] died: Goblin lvl 12 died
+[28Jan2025 17:51:01.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 17:51:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
+[28Jan2025 17:51:24.306] [Server thread/INFO] [net.mcreator.sololeveling.SoloLevelingMod/]: ID: 2.0
+[28Jan2025 17:51:34.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinBomberEntity['Goblin lvl 15'/44212, l='ServerLevel[world]', x=999.01, y=59.00, z=99.35] died: Goblin lvl 15 died
+[28Jan2025 17:52:35.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinAssassinEntity['Goblin lvl 14'/44217, l='ServerLevel[world]', x=1003.27, y=59.00, z=102.76] died: Goblin lvl 14 died
+[28Jan2025 17:53:17.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinBomberEntity['Goblin lvl 14'/44218, l='ServerLevel[world]', x=1039.61, y=59.00, z=102.87] died: Goblin lvl 14 died
+[28Jan2025 17:53:44.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinClubEntity['Goblin lvl 15'/44221, l='ServerLevel[world]', x=1045.56, y=59.00, z=107.10] died: Goblin lvl 15 died
+[28Jan2025 17:54:17.537] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinAssassinEntity['Goblin lvl 18'/44220, l='ServerLevel[world]', x=1045.49, y=59.00, z=107.17] died: Goblin lvl 18 died
+[28Jan2025 17:55:13.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HobgoblinClubEntity['Goblin lvl 9'/44236, l='ServerLevel[world]', x=1049.86, y=59.00, z=111.86] died: Goblin lvl 9 died
