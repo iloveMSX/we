@@ -1167,3 +1167,5 @@ Things may not work well.
 [28Jan2025 18:02:37.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GigaGoblinEntity['Goblin lvl 16'/45866, l='ServerLevel[world]', x=1046.36, y=59.00, z=109.95] died: Goblin lvl 16 died
 [28Jan2025 18:03:15.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets died
 [28Jan2025 18:03:30.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Isn't It Iron Pick]
+[28Jan2025 18:09:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Hot Stuff]
+[28Jan2025 18:14:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fleets has made the advancement [Diamonds!]
