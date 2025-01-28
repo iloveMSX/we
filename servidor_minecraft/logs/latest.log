@@ -213,3 +213,29 @@
 [28Jan2025 14:54:58.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
 [28Jan2025 14:55:01.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
 [28Jan2025 14:55:01.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed realx_edits
+[28Jan2025 14:56:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gate opened at X: 110.5 Y: 71.0 Z: -82.5
+[28Jan2025 14:58:55.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits died
+[28Jan2025 14:59:27.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilikeratpoison[/127.63.175.83:56149] logged in with entity id 2961 at (23.5, 87.0, -40.5)
+[28Jan2025 14:59:27.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison joined the game
+[28Jan2025 14:59:28.859] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilikeratpoison (18)
+[28Jan2025 14:59:28.859] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 14:59:32.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 14:59:33.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 14:59:33.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilikeratpoison (f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec) successfully connected to voice chat
+[28Jan2025 15:01:39.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Stone Age]
+[28Jan2025 15:02:07.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison has made the advancement [Stone Age]
+[28Jan2025 15:02:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison has made the advancement [Getting an Upgrade]
+[28Jan2025 15:03:26.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Getting an Upgrade]
+[28Jan2025 15:04:20.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilikeratpoison lost connection: Disconnected
+[28Jan2025 15:04:20.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison left the game
+[28Jan2025 15:04:20.960] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilikeratpoison
+[28Jan2025 15:06:18.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Sweet Dreams]
+[28Jan2025 15:06:20.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <realx_edits> realx_edits
+[28Jan2025 15:06:30.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilikeratpoison[/127.63.175.83:59139] logged in with entity id 4686 at (-0.14546123063746563, 84.0, -48.51651648291221)
+[28Jan2025 15:06:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilikeratpoison joined the game
+[28Jan2025 15:06:31.521] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilikeratpoison (18)
+[28Jan2025 15:06:31.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilikeratpoison
+[28Jan2025 15:06:35.317] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:06:36.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec
+[28Jan2025 15:06:36.325] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilikeratpoison (f645cc1c-fb53-3be3-8d5a-1dde1e4fe8ec) successfully connected to voice chat
+[28Jan2025 15:06:37.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: realx_edits has made the advancement [Monster Hunter]
